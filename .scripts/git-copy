@@ -1,0 +1,9 @@
+#! /bin/bash
+
+#
+#	git backup for TOPAZ
+#
+
+cp -v $HOME/.config/bspwm/bspwmrc $HOME/dl/git/clones/internal/bspwm/
+cp -v $HOME/.config/sxhkd/sxhkdrc $HOME/dl/git/clones/internal/bspwm/
+cp -vr $HOME/.scripts $HOME/dl/git/clones/internal/bspwm/
