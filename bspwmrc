@@ -46,4 +46,4 @@ polybar --config=.config/polybar/config.ini example &
 wal -R &
 dunst &
 reload_dunst.sh & 
-feh --bg-tile /home/joel/media/images/wallpapers/oriental-tiles.png & 
+#feh --bg-tile /home/joel/media/images/wallpapers/oriental-tiles.png & 
