@@ -40,7 +40,7 @@ bspc config presel_feedback_color "$color1"
 #	startup stuff
 #
 
-picom --shadow --round-borders 3 --corner-radius 3 --vsync &
+picom --shadow --round-borders 3 --corner-radius 3 --vsync --blur-method kawase &
 redshift &
 polybar --config=.config/polybar/config.ini example &
 wal -R &
