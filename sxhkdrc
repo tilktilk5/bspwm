@@ -54,6 +54,10 @@ super + F11
 super + F12 
 	bright-up
 
+#	volume
+super + XF86AudioRaiseVolume
+	vol-up
+
 #
 #	program shortcuts
 #
@@ -63,5 +67,5 @@ super + Return
 	terminator
 # 	program launcher
 super + @space
-	dmenu_run
+	menu
 
