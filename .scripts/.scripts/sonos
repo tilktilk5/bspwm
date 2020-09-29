@@ -1,0 +1,5 @@
+#! /bin/zsh
+
+systemctl start bluetooth >> /dev/null
+bluetoothctl connect 30:21:B1:99:33:C5 >> /dev/null
+

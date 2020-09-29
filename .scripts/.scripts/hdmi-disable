@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+xrandr --output HDMI-1-0 --off && notify-send "hdmi disabled"

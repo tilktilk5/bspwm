@@ -1,0 +1,12 @@
+#! /bin/zsh
+
+connmanctl state | grep connected 
+#read $wifi
+#if [ $wifi = "connected" ]
+#then 
+#	echo "you are already connected"
+#fi
+
+connmanctl connect wifi_58961db28a09_49742d48757274732d5768656e2d4950_managed_psk 
+
+echo "you are now connected"

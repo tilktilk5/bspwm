@@ -1,0 +1,35 @@
+#!/bin/bash
+#title:         menu.sh
+#description:   Menu which allows multiple items to be selected
+#author:        Nathan Davieau
+#               Based on script from MestreLion
+#created:       May 19 2016
+#updated:       N/A
+#version:       1.0
+#usage:         ./menu.sh
+#==============================================================================
+
+#Menu options
+options[0]="AAA"
+options[1]="BBB"
+options[2]="CCC"
+options[3]="DDD"
+options[4]="EEE"
+
+#Actions to take based on selection
+function ACTIONS {
+    if [[ ${choices[0]} ]]; then
+        #Option 1 selected
+        echo "Option 1 selected"
+    fi
+    if [[ ${choices[1]} ]]; then
+        #Option 2 selected
+        echo "Option 2 selected"
+    fi
+    if [[ ${choices[2]} ]]; then
+        #Option 3 selected
+        echo "Option 3 selected"
+    fi
+    if [[ ${choices[3]} ]]; then
+        #Option 4 selected
+};
