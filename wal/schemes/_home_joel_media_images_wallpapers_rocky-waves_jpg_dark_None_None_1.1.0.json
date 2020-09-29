@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/rocky-waves.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120101",
+        "foreground": "#f4dccd",
+        "cursor": "#f4dccd"
+    },
+    "colors": {
+        "color0": "#120101",
+        "color1": "#CE7750",
+        "color2": "#B88773",
+        "color3": "#E1926B",
+        "color4": "#8F7D83",
+        "color5": "#B99589",
+        "color6": "#E6AD93",
+        "color7": "#f4dccd",
+        "color8": "#aa9a8f",
+        "color9": "#CE7750",
+        "color10": "#B88773",
+        "color11": "#E1926B",
+        "color12": "#8F7D83",
+        "color13": "#B99589",
+        "color14": "#E6AD93",
+        "color15": "#f4dccd"
+    }
+}

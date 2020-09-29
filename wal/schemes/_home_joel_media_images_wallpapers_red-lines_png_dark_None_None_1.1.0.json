@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/red-lines.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121011",
+        "foreground": "#dc9a87",
+        "cursor": "#dc9a87"
+    },
+    "colors": {
+        "color0": "#121011",
+        "color1": "#4D1D24",
+        "color2": "#6E1926",
+        "color3": "#4C2522",
+        "color4": "#6C2A24",
+        "color5": "#991526",
+        "color6": "#E80926",
+        "color7": "#dc9a87",
+        "color8": "#9a6b5e",
+        "color9": "#4D1D24",
+        "color10": "#6E1926",
+        "color11": "#4C2522",
+        "color12": "#6C2A24",
+        "color13": "#991526",
+        "color14": "#E80926",
+        "color15": "#dc9a87"
+    }
+}

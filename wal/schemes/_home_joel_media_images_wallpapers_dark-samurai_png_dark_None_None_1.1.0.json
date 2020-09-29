@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/dark-samurai.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1c1c",
+        "foreground": "#cecece",
+        "cursor": "#cecece"
+    },
+    "colors": {
+        "color0": "#1c1c1c",
+        "color1": "#787878",
+        "color2": "#8A7575",
+        "color3": "#8A8A8A",
+        "color4": "#8E8E8E",
+        "color5": "#909090",
+        "color6": "#A49B9B",
+        "color7": "#cecece",
+        "color8": "#909090",
+        "color9": "#787878",
+        "color10": "#8A7575",
+        "color11": "#8A8A8A",
+        "color12": "#8E8E8E",
+        "color13": "#909090",
+        "color14": "#A49B9B",
+        "color15": "#cecece"
+    }
+}

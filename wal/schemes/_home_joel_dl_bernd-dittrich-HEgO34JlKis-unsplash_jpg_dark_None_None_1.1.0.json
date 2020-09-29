@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/dl/bernd-dittrich-HEgO34JlKis-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b0f",
+        "foreground": "#d6d6d6",
+        "cursor": "#d6d6d6"
+    },
+    "colors": {
+        "color0": "#0b0b0f",
+        "color1": "#423F44",
+        "color2": "#5A5960",
+        "color3": "#787A84",
+        "color4": "#807E82",
+        "color5": "#919196",
+        "color6": "#B1B1B3",
+        "color7": "#d6d6d6",
+        "color8": "#959595",
+        "color9": "#423F44",
+        "color10": "#5A5960",
+        "color11": "#787A84",
+        "color12": "#807E82",
+        "color13": "#919196",
+        "color14": "#B1B1B3",
+        "color15": "#d6d6d6"
+    }
+}

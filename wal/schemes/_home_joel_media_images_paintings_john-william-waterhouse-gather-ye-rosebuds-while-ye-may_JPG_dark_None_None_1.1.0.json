@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/paintings/john-william-waterhouse-gather-ye-rosebuds-while-ye-may.JPG",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0C0E",
+        "foreground": "#d9d7d7",
+        "cursor": "#d9d7d7"
+    },
+    "colors": {
+        "color0": "#0B0C0E",
+        "color1": "#986A5D",
+        "color2": "#6C8B69",
+        "color3": "#A28F72",
+        "color4": "#77838F",
+        "color5": "#A4A09C",
+        "color6": "#CAABA7",
+        "color7": "#d9d7d7",
+        "color8": "#979696",
+        "color9": "#986A5D",
+        "color10": "#6C8B69",
+        "color11": "#A28F72",
+        "color12": "#77838F",
+        "color13": "#A4A09C",
+        "color14": "#CAABA7",
+        "color15": "#d9d7d7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/dark-plant.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#02091A",
+        "foreground": "#e19ba9",
+        "cursor": "#e19ba9"
+    },
+    "colors": {
+        "color0": "#02091A",
+        "color1": "#1A2548",
+        "color2": "#2B284B",
+        "color3": "#522C4E",
+        "color4": "#702F4F",
+        "color5": "#923556",
+        "color6": "#B64262",
+        "color7": "#e19ba9",
+        "color8": "#9d6c76",
+        "color9": "#1A2548",
+        "color10": "#2B284B",
+        "color11": "#522C4E",
+        "color12": "#702F4F",
+        "color13": "#923556",
+        "color14": "#B64262",
+        "color15": "#e19ba9"
+    }
+}

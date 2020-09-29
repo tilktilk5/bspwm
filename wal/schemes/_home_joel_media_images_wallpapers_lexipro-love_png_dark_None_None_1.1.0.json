@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/lexipro-love.png",
+    "alpha": "100",
+    "special": {
+        "background": "#09030a",
+        "foreground": "#dfe2eb",
+        "cursor": "#dfe2eb"
+    },
+    "colors": {
+        "color0": "#09030a",
+        "color1": "#3570C4",
+        "color2": "#0D9DDC",
+        "color3": "#609AE3",
+        "color4": "#2DCFED",
+        "color5": "#A5AAC1",
+        "color6": "#A4D3ED",
+        "color7": "#dfe2eb",
+        "color8": "#9c9ea4",
+        "color9": "#3570C4",
+        "color10": "#0D9DDC",
+        "color11": "#609AE3",
+        "color12": "#2DCFED",
+        "color13": "#A5AAC1",
+        "color14": "#A4D3ED",
+        "color15": "#dfe2eb"
+    }
+}

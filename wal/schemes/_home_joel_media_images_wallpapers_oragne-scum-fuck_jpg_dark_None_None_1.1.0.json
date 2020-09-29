@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/oragne-scum-fuck.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1b1d",
+        "foreground": "#ddd7d1",
+        "cursor": "#ddd7d1"
+    },
+    "colors": {
+        "color0": "#1b1b1d",
+        "color1": "#DD975B",
+        "color2": "#EA9048",
+        "color3": "#F4AC4B",
+        "color4": "#DFC268",
+        "color5": "#728488",
+        "color6": "#D2B098",
+        "color7": "#ddd7d1",
+        "color8": "#9a9692",
+        "color9": "#DD975B",
+        "color10": "#EA9048",
+        "color11": "#F4AC4B",
+        "color12": "#DFC268",
+        "color13": "#728488",
+        "color14": "#D2B098",
+        "color15": "#ddd7d1"
+    }
+}

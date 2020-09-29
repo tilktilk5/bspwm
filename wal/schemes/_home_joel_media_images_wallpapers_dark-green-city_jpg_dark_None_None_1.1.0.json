@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/dark-green-city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b120a",
+        "foreground": "#dcd1c5",
+        "cursor": "#dcd1c5"
+    },
+    "colors": {
+        "color0": "#0b120a",
+        "color1": "#9B593D",
+        "color2": "#538A39",
+        "color3": "#748666",
+        "color4": "#959270",
+        "color5": "#C59D60",
+        "color6": "#B1A88B",
+        "color7": "#dcd1c5",
+        "color8": "#9a9289",
+        "color9": "#9B593D",
+        "color10": "#538A39",
+        "color11": "#748666",
+        "color12": "#959270",
+        "color13": "#C59D60",
+        "color14": "#B1A88B",
+        "color15": "#dcd1c5"
+    }
+}

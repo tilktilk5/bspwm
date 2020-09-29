@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/autum-lake.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#200f09",
+        "foreground": "#ddd3c5",
+        "cursor": "#ddd3c5"
+    },
+    "colors": {
+        "color0": "#200f09",
+        "color1": "#904513",
+        "color2": "#877767",
+        "color3": "#807F7E",
+        "color4": "#988A77",
+        "color5": "#CA935A",
+        "color6": "#A99D8B",
+        "color7": "#ddd3c5",
+        "color8": "#9a9389",
+        "color9": "#904513",
+        "color10": "#877767",
+        "color11": "#807F7E",
+        "color12": "#988A77",
+        "color13": "#CA935A",
+        "color14": "#A99D8B",
+        "color15": "#ddd3c5"
+    }
+}

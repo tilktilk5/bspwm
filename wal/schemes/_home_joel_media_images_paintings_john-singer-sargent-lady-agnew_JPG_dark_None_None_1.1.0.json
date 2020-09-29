@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/paintings/john-singer-sargent-lady-agnew.JPG",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1d1c",
+        "foreground": "#dad1da",
+        "cursor": "#dad1da"
+    },
+    "colors": {
+        "color0": "#1e1d1c",
+        "color1": "#707B83",
+        "color2": "#8A798A",
+        "color3": "#77858C",
+        "color4": "#AB9E9F",
+        "color5": "#C8B6AD",
+        "color6": "#D4C4B8",
+        "color7": "#dad1da",
+        "color8": "#989298",
+        "color9": "#707B83",
+        "color10": "#8A798A",
+        "color11": "#77858C",
+        "color12": "#AB9E9F",
+        "color13": "#C8B6AD",
+        "color14": "#D4C4B8",
+        "color15": "#dad1da"
+    }
+}

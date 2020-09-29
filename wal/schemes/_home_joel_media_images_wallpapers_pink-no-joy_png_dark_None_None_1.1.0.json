@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/pink-no-joy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#221d1b",
+        "foreground": "#f4d8cc",
+        "cursor": "#f4d8cc"
+    },
+    "colors": {
+        "color0": "#221d1b",
+        "color1": "#988379",
+        "color2": "#AB8676",
+        "color3": "#966091",
+        "color4": "#2493C2",
+        "color5": "#BB9383",
+        "color6": "#D0A28F",
+        "color7": "#f4d8cc",
+        "color8": "#aa978e",
+        "color9": "#988379",
+        "color10": "#AB8676",
+        "color11": "#966091",
+        "color12": "#2493C2",
+        "color13": "#BB9383",
+        "color14": "#D0A28F",
+        "color15": "#f4d8cc"
+    }
+}

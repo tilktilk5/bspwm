@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/dark-street.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0c",
+        "foreground": "#be9896",
+        "cursor": "#be9896"
+    },
+    "colors": {
+        "color0": "#0c0c0c",
+        "color1": "#4A3A4A",
+        "color2": "#6F3B45",
+        "color3": "#414156",
+        "color4": "#4C4459",
+        "color5": "#6B4C5B",
+        "color6": "#4F4D67",
+        "color7": "#be9896",
+        "color8": "#856a69",
+        "color9": "#4A3A4A",
+        "color10": "#6F3B45",
+        "color11": "#414156",
+        "color12": "#4C4459",
+        "color13": "#6B4C5B",
+        "color14": "#4F4D67",
+        "color15": "#be9896"
+    }
+}

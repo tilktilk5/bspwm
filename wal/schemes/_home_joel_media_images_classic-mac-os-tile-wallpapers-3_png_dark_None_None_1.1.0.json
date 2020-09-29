@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/classic-mac-os-tile-wallpapers-3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#474754",
+        "foreground": "#cfcdf4",
+        "cursor": "#cfcdf4"
+    },
+    "colors": {
+        "color0": "#474754",
+        "color1": "#827DF1",
+        "color2": "#8E8D9C",
+        "color3": "#8E8BB3",
+        "color4": "#8C89D1",
+        "color5": "#8E89F2",
+        "color6": "#A4A0EC",
+        "color7": "#cfcdf4",
+        "color8": "#908faa",
+        "color9": "#827DF1",
+        "color10": "#8E8D9C",
+        "color11": "#8E8BB3",
+        "color12": "#8C89D1",
+        "color13": "#8E89F2",
+        "color14": "#A4A0EC",
+        "color15": "#cfcdf4"
+    }
+}

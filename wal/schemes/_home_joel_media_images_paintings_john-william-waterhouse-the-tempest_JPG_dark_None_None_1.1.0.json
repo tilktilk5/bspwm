@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/paintings/john-william-waterhouse-the-tempest.JPG",
+    "alpha": "100",
+    "special": {
+        "background": "#141715",
+        "foreground": "#c1c3c0",
+        "cursor": "#c1c3c0"
+    },
+    "colors": {
+        "color0": "#141715",
+        "color1": "#50514D",
+        "color2": "#646965",
+        "color3": "#7F7871",
+        "color4": "#768479",
+        "color5": "#8C8979",
+        "color6": "#788887",
+        "color7": "#c1c3c0",
+        "color8": "#878886",
+        "color9": "#50514D",
+        "color10": "#646965",
+        "color11": "#7F7871",
+        "color12": "#768479",
+        "color13": "#8C8979",
+        "color14": "#788887",
+        "color15": "#c1c3c0"
+    }
+}

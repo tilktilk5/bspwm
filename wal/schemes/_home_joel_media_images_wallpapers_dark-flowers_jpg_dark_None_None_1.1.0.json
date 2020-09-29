@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/dark-flowers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#e9e3e0",
+        "cursor": "#e9e3e0"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#9E7D80",
+        "color2": "#B19B96",
+        "color3": "#CAB1AC",
+        "color4": "#D3C5BA",
+        "color5": "#D3BEC0",
+        "color6": "#D9CDC8",
+        "color7": "#e9e3e0",
+        "color8": "#a39e9c",
+        "color9": "#9E7D80",
+        "color10": "#B19B96",
+        "color11": "#CAB1AC",
+        "color12": "#D3C5BA",
+        "color13": "#D3BEC0",
+        "color14": "#D9CDC8",
+        "color15": "#e9e3e0"
+    }
+}

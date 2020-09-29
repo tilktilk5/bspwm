@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/chan-test/pictures/1596345961636.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121212",
+        "foreground": "#e8e7e4",
+        "cursor": "#e8e7e4"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#C96B32",
+        "color2": "#C98E51",
+        "color3": "#979C9C",
+        "color4": "#ABB4B3",
+        "color5": "#C3C2BB",
+        "color6": "#CED2D1",
+        "color7": "#e8e7e4",
+        "color8": "#a2a19f",
+        "color9": "#C96B32",
+        "color10": "#C98E51",
+        "color11": "#979C9C",
+        "color12": "#ABB4B3",
+        "color13": "#C3C2BB",
+        "color14": "#CED2D1",
+        "color15": "#e8e7e4"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/joel/.config/wpg/wallpapers/pink-feather.png
+
+set $background #0f0f0f
+set $foreground #fffdf1
+
+set $color0 #0f0f0f
+set $color1 #f05365
+set $color2 #4a7c59
+set $color3 #edd9a3
+set $color4 #1d70a2
+set $color5 #fcf6bd
+set $color6 #52d1dc
+set $color7 #f9ebe0
+set $color8 #282828
+set $color9 #ff5673
+set $color10 #53ae6e
+set $color11 #ffffb6
+set $color12 #1994df
+set $color13 #ffffc1
+set $color14 #56ffff
+set $color15 #fffdf1

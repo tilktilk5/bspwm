@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/joel/.config/wpg/wallpapers/pink-feather.png"
+let background = "#0f0f0f"
+let foreground = "#fffdf1"
+let cursor     = "#fffdf1"
+
+" Colors
+let color0  = "#0f0f0f"
+let color1  = "#f05365"
+let color2  = "#4a7c59"
+let color3  = "#edd9a3"
+let color4  = "#1d70a2"
+let color5  = "#fcf6bd"
+let color6  = "#52d1dc"
+let color7  = "#f9ebe0"
+let color8  = "#282828"
+let color9  = "#ff5673"
+let color10 = "#53ae6e"
+let color11 = "#ffffb6"
+let color12 = "#1994df"
+let color13 = "#ffffc1"
+let color14 = "#56ffff"
+let color15 = "#fffdf1"

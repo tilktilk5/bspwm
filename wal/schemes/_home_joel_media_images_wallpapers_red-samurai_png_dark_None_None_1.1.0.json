@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/red-samurai.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1916",
+        "foreground": "#a7b0c2",
+        "cursor": "#a7b0c2"
+    },
+    "colors": {
+        "color0": "#1f1916",
+        "color1": "#B15C5B",
+        "color2": "#B7605E",
+        "color3": "#B8605E",
+        "color4": "#B8605F",
+        "color5": "#B8605E",
+        "color6": "#596A92",
+        "color7": "#a7b0c2",
+        "color8": "#747b87",
+        "color9": "#B15C5B",
+        "color10": "#B7605E",
+        "color11": "#B8605E",
+        "color12": "#B8605F",
+        "color13": "#B8605E",
+        "color14": "#596A92",
+        "color15": "#a7b0c2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/dan-cristian-padure-WoZgy7ZwgBI-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e18",
+        "foreground": "#9dc8bb",
+        "cursor": "#9dc8bb"
+    },
+    "colors": {
+        "color0": "#0d0e18",
+        "color1": "#4C655D",
+        "color2": "#5B6C6A",
+        "color3": "#46A463",
+        "color4": "#59A264",
+        "color5": "#B0CF4F",
+        "color6": "#EEE65E",
+        "color7": "#9dc8bb",
+        "color8": "#6d8c82",
+        "color9": "#4C655D",
+        "color10": "#5B6C6A",
+        "color11": "#46A463",
+        "color12": "#59A264",
+        "color13": "#B0CF4F",
+        "color14": "#EEE65E",
+        "color15": "#9dc8bb"
+    }
+}

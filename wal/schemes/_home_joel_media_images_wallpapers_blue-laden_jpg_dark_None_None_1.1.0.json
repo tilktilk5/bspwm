@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/blue-laden.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d363f",
+        "foreground": "#b2cbcd",
+        "cursor": "#b2cbcd"
+    },
+    "colors": {
+        "color0": "#1d363f",
+        "color1": "#627D84",
+        "color2": "#3A8F9D",
+        "color3": "#528892",
+        "color4": "#689498",
+        "color5": "#529DA9",
+        "color6": "#6B9BA4",
+        "color7": "#b2cbcd",
+        "color8": "#7c8e8f",
+        "color9": "#627D84",
+        "color10": "#3A8F9D",
+        "color11": "#528892",
+        "color12": "#689498",
+        "color13": "#529DA9",
+        "color14": "#6B9BA4",
+        "color15": "#b2cbcd"
+    }
+}

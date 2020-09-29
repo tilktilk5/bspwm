@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/wallpapers/surfing.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090B0B",
+        "foreground": "#eeecde",
+        "cursor": "#eeecde"
+    },
+    "colors": {
+        "color0": "#090B0B",
+        "color1": "#7EC4BE",
+        "color2": "#A8A7A0",
+        "color3": "#B4BAA4",
+        "color4": "#ECC89B",
+        "color5": "#E3DBB4",
+        "color6": "#D6D2CA",
+        "color7": "#eeecde",
+        "color8": "#a6a59b",
+        "color9": "#7EC4BE",
+        "color10": "#A8A7A0",
+        "color11": "#B4BAA4",
+        "color12": "#ECC89B",
+        "color13": "#E3DBB4",
+        "color14": "#D6D2CA",
+        "color15": "#eeecde"
+    }
+}

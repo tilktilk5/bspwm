@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/media/images/screencap-mac-os-9.png",
+    "alpha": "100",
+    "special": {
+        "background": "#22252f",
+        "foreground": "#dedef5",
+        "cursor": "#dedef5"
+    },
+    "colors": {
+        "color0": "#22252f",
+        "color1": "#919192",
+        "color2": "#9292AA",
+        "color3": "#B0B0B1",
+        "color4": "#B4B4D9",
+        "color5": "#C5CAC4",
+        "color6": "#D2D2D3",
+        "color7": "#dedef5",
+        "color8": "#9b9bab",
+        "color9": "#919192",
+        "color10": "#9292AA",
+        "color11": "#B0B0B1",
+        "color12": "#B4B4D9",
+        "color13": "#C5CAC4",
+        "color14": "#D2D2D3",
+        "color15": "#dedef5"
+    }
+}

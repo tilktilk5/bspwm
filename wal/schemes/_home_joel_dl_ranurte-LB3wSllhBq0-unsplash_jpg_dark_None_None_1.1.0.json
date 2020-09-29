@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/joel/dl/ranurte-LB3wSllhBq0-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f150b",
+        "foreground": "#c5cddc",
+        "cursor": "#c5cddc"
+    },
+    "colors": {
+        "color0": "#0f150b",
+        "color1": "#7A88A0",
+        "color2": "#98979A",
+        "color3": "#8F98AD",
+        "color4": "#AEABB0",
+        "color5": "#C7B9B1",
+        "color6": "#DFCCB3",
+        "color7": "#c5cddc",
+        "color8": "#898f9a",
+        "color9": "#7A88A0",
+        "color10": "#98979A",
+        "color11": "#8F98AD",
+        "color12": "#AEABB0",
+        "color13": "#C7B9B1",
+        "color14": "#DFCCB3",
+        "color15": "#c5cddc"
+    }
+}
