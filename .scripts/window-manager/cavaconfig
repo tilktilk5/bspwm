@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cp /home/joel/.config/cava/config.colors /home/joel/.config/wal/templates/cavaconfig.colors
+
+wal -R
+
+cp /home/joel/.cache/wal/cavaconfig.colors /home/joel/.config/cava/config
+
+echo "done."
+

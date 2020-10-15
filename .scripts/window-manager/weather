@@ -1,0 +1,6 @@
+#!/bin/sh
+
+URL='https://www.accuweather.com/en/us/minneapolis/55415/weather-forecast/348794'
+
+wget -q -O- "$URL" | awk -F\' '/acm_RecentLocationsCarousel\.push/{print $2": "$16", "$12"°" }'| head -1
+

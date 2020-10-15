@@ -3,7 +3,7 @@
 #	script for applying pywal changes to all approptiate external packages
 #
 
-cd $HOME/dl/git/clones/external/dmenu
+cd $HOME/dl/git/external/dmenu
 sudo make clean install >/dev/null &&
 	echo "set dmenu"
 reload_dunst.sh >/dev/null &&

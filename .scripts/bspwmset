@@ -1,0 +1,7 @@
+#!/bin/bash
+
+LAYOUT=$1
+MONITOR=$(bspc query -D -d focused --names)
+#LIST=$(bspc-layout layouts)
+
+bsp-layout set $LAYOUT $MONITOR
